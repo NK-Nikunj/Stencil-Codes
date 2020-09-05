@@ -1,0 +1,4 @@
+benchmark/2d_stencil/build/**
+benchmark/1d_stencil/build/**
+.vscode/**
+
